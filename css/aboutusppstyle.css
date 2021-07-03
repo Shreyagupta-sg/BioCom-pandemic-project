@@ -1,0 +1,298 @@
+/* AIM */
+.AIM {
+  color: #000;
+}
+.set{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:20%;
+}
+
+.aim{
+    margin-top: 4rem;
+    margin-left: auto;
+    margin-right: auto;
+    line-height:2;
+    margin: 20px;
+}
+
+.aim h1{
+    text-align: center;
+    font-size: 45px;
+}
+
+.aim h1:hover{
+    color: #F6E71D;
+    transition: 0.7s;
+}
+
+.aim .container .row .col-xs-12{
+    margin-top: 20px;
+    color: #000;
+    font-size: 22px;
+    text-align: left;
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) {
+    .aim .container .row .col-xs-12 {
+        font-size: 18px;
+    }
+    .aim h1{
+        font-size: 40px;
+    }
+}
+/* title */
+#title {
+  background-color: #F5D10D;
+}
+#look {
+  background-color: #F5D10D;
+}
+
+/* PURPOSE */
+
+.purpose{
+    margin-top: 4rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.purpose h1{
+    text-align: center;
+    font-size: 45px;
+}
+
+.purpose h1:hover{
+    color: #F6E71D;
+    transition: 0.7s;
+}
+
+.purpose .container .row .col-xs-12{
+    margin-top: 20px;
+    color: #000;
+    font-size: 22px;
+    text-align: left;
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) {
+    .purpose .container .row .col-xs-12 {
+        font-size: 18px;
+    }
+    .purpose h1{
+        font-size: 40px;
+    }
+}
+
+
+/* TEAM_SHOW */
+
+.team-show{
+    margin-top: 4rem;
+    margin-left: auto;
+    margin-right: auto;
+    line-height:2;
+    margin: 20px;
+}
+
+.team-show h1{
+    text-align: center;
+    font-size: 45px;
+}
+
+.team-show h1:hover{
+    color: #F6E71D;
+    transition: 0.7s;
+}
+
+.team-show .container .row .col-xs-12{
+    margin-top: 20px;
+    color: #000;
+    font-size: 22px;
+    text-align: center;
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) {
+    .team-show .container .row .col-xs-12 {
+        font-size: 18px;
+    }
+    .team-show h1{
+        font-size: 40px;
+    }
+}
+
+
+
+/* CORPORATE TAB */
+.middle {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.color {
+  float: right;
+  width: 25%;
+  margin-top: 10px;
+  margin-left: 50px;
+}
+.colour {
+  float: left;
+  margin-right: 50px;
+  width: 25%;
+
+}
+
+.corporate-tab{
+    margin-top: 4rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.corporate-tab h1{
+    text-align: center;
+    font-size: 45px;
+}
+
+.corporate-tab h3{
+    text-align: center;
+    font-size: 35px;
+    margin-top: 10px;
+    color: #000;
+}
+
+.corporate-tab h1:hover{
+    color: #F6E71D;
+    transition: 0.7s;
+}
+
+.corporate-tab .middle .col-xs-12{
+
+    color: #000;
+    font-size: 22px;
+
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) {
+    .corporate-tab .middle .col-xs-12 {
+        font-size: 18px;
+    }
+    .corporate-tab h1{
+        font-size: 40px;
+    }
+}
+
+
+/* FAQ */
+.ques {
+  background-color: #F5D10D;
+}
+
+.faq{
+    margin-top: 4rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.faq h1{
+    text-align: center;
+    font-size: 45px;
+}
+
+.faq h1:hover{
+    color: #F6E71D;
+    transition: 0.7s;
+}
+
+.faq .container .row .col-xs-12{
+    margin-top: 20px;
+    color: #ffffff;
+    font-size: 22px;
+    text-align: left;
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) {
+    .faq .container .row .col-xs-12 {
+        font-size: 18px;
+    }
+    .faq h1{
+        font-size: 40px;
+    }
+}
+
+/* MISC */
+
+.misc{
+    margin-top: 4rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.misc h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+.misc h1:hover{
+    color: #F6E71D;
+    transition: 0.7s;
+}
+
+.misc .container .row .col-xs-12{
+    margin-top: 20px;
+    color: #ffffff;
+    font-size: 25px;
+    text-align: left;
+}
+
+.misc .container .row .col-xs-12 a{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.misc .container .row .col-xs-12 a:hover{
+    color: #F6E71D;
+    font-size: 35px;
+    text-decoration: underline;
+    transition: 0.3s ease-in-out;
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) {
+    .misc .container .row .col-xs-12 {
+        font-size: 18px;
+    }
+    .misc h1{
+        font-size: 40px;
+    }
+
+    .misc .container .row .col-xs-12 a{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 400;
+    }
+}
+
+
+
+/* ANIMATION */
+
+body{
+    animation: transitionIn 1s ease-in;
+
+}
+
+@keyframes transitionIn{
+    from{
+        opacity: 0;
+        transform: translateY(-50px);
+    }
+
+    to{
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

@@ -1,0 +1,281 @@
+/* WHO ARE WE */
+body {
+  overflow-x: hidden;
+}
+#features {
+  padding: 7% 15%;
+}
+
+.feature-box {
+  text-align: center;
+  padding-left: 5px;
+
+}
+h3 {
+  font-family: "Montserrat-Bold";
+}
+p {
+  color: #8f8f8f;
+}
+
+
+.who-are-we {
+    margin-top: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.who-are-we h1{
+    text-align: center;
+    font-size: 60px;
+}
+
+.who-are-we h1:hover{
+    color: #F6E71D;
+    transition: 0.7s;
+}
+
+.who-are-we .container .row .col-xs-12 {
+    margin-top: 20px;
+    color: #ffffff;
+    font-size: 22px;
+    text-align: left;
+}
+
+.who-are-we .container .row .col-xs-12 p{
+    font-size: 24px;
+    text-align: left;
+    line-height: normal;
+}
+
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) {
+   .who-are-we .container .row .col-xs-12 p{
+        font-size: 18px;
+    }
+
+    .who-are-we .container .row .col-xs-12 {
+        font-size: 18px;
+    }
+    .who-are-we h1{
+        font-size: 50px;
+    }
+}
+#pictures {
+  background-color: #161616;
+  text-align: center;
+  padding: 4% 10%;
+}
+.testimonial-image{
+
+  width: 70%;
+  margin: 20px;
+}
+
+/* WHAT SITE IS FOR */
+.image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.box {
+  display: flex;
+  width:80vw;
+  margin:auto;
+}
+.card {
+  border-width: 5px;
+  border-style: outset;
+  background-color: black;
+
+}
+h2 {
+  text-align: center;
+  padding-bottom: 50px;
+}
+h2:hover{
+  color: #F6E71D;
+}
+
+
+.what-site-for{
+    margin-top: 4rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.what-site-for h1{
+    text-align: center;
+    font-size: 45px;
+}
+
+.what-site-for h1:hover{
+    color: #F6E71D;
+    transition: 0.7s;
+}
+
+.what-site-for .container .row .col-xs-12{
+    margin-top: 15px;
+    color: #ffffff;
+    font-size: 22px;
+    text-align: center;
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) {
+    .what-site-for .container .row .col-xs-12 {
+        font-size: 18px;
+    }
+    .what-site-for h1{
+        font-size: 45px;
+    }
+}
+
+
+
+
+/* WHAT PEOPLE EXPECT */
+
+.expect{
+    margin-top: 4rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.expect h1{
+    text-align: center;
+    font-size: 45px;
+}
+
+.expect h1:hover{
+    color: #F6E71D;
+    transition: 0.7s;
+}
+
+.expect .container .row .col-xs-12{
+    margin-top: 15px;
+    color: #ffffff;
+    font-size: 22px;
+    text-align: center;
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) {
+    .expect .container .row .col-xs-12 {
+        font-size: 18px;
+    }
+    .expect h1{
+        font-size: 40px;
+    }
+}
+
+
+/* HOW HELPFUL */
+
+.helpful{
+    margin-top: 4rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.helpful h1{
+    text-align: center;
+    font-size: 45px;
+}
+
+.helpful h1:hover{
+    color: #F6E71D;
+    transition: 0.7s;
+}
+
+.helpful .container .row .col-xs-12{
+    margin-top: 20px;
+    color: #ffffff;
+    font-size: 22px;
+    text-align: center;
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) {
+    .helpful .container .row .col-xs-12 {
+        font-size: 18px;
+    }
+    .helpful h1{
+        font-size: 40px;
+    }
+}
+/*Meet our Team*/
+h1{
+  text-align: center;
+}
+h1:hover{
+  color: #F6E71D;
+}
+p {
+  font-size: 22px;
+  text-align: center;
+}
+.team {
+  text-align: center;
+}
+.explore {
+  background: #01080d;
+  background-image: -webkit-linear-gradient(top, #01080d, #2980b9);
+  background-image: -moz-linear-gradient(top, #01080d, #2980b9);
+  background-image: -ms-linear-gradient(top, #01080d, #2980b9);
+  background-image: -o-linear-gradient(top, #01080d, #2980b9);
+  background-image: linear-gradient(to bottom, #01080d, #2980b9);
+  -webkit-border-radius: 48;
+  -moz-border-radius: 48;
+  border-radius: 48px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+
+.explore:hover {
+  background: #cffc3c;
+  background-image: -webkit-linear-gradient(top, #cffc3c, #3498db);
+  background-image: -moz-linear-gradient(top, #cffc3c, #3498db);
+  background-image: -ms-linear-gradient(top, #cffc3c, #3498db);
+  background-image: -o-linear-gradient(top, #cffc3c, #3498db);
+  background-image: linear-gradient(to bottom, #cffc3c, #3498db);
+  text-decoration: none;
+}
+/*Our Partners*/
+.partners{
+  display: flex;
+  margin-top: 100px;
+}
+.our{
+  margin-top: 50px;
+}
+.partners h1{
+  text-align: center;
+}
+.item{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+/* ANIMATION */
+
+body{
+    animation: transitionIn 1s ease-in;
+
+}
+
+@keyframes transitionIn{
+    from{
+        opacity: 0;
+        transform: translateY(-50px);
+    }
+
+    to{
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
